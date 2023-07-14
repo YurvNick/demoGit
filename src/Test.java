@@ -1,5 +1,5 @@
 /**
- * Comment 1 - Комментарий 123
+ * Comment 1 - Комментарий
  */
 public class Test {
 }
